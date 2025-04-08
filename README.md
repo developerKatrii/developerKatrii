@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @developerKatrii
-- 👀 I’m interested in Full Stack Development with Java Springboot at the Backend & HTML/CSS/JS with Angular JS Framework!
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Full stack development projects
-- 📫 Reach out to me at -> cskarthika852@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love acting!
-
-<!---
-developerKatrii/developerKatrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @developerKatrii    
+- 💼 Currently working as a Business Analyst with hands-on experience in SQL, Excel, Data Analysis, Automation and Agile methodologies  
+- 📊 I actively host and contribute to scrum ceremonies and bridge the gap between technical and business teams
+- 👩‍💻 I kickstarted my IT industry experience as a Java Developer in java backend projects
+- 🌱 I’m always learning and expanding my skills in both development and analysis  
+- 🤝 Open to collaborating on projects involving data insights, automation, and business analysis  
+- 📫 Reach out to me at → cskarthika852@gmail.com  or karthika.chandrasekharansudha@gmail.com
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love acting and content creation!
